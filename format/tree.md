@@ -5,6 +5,231 @@ tree
 tree -f
 ```
 
+```
+📁 ISTILAH-STRUKTUR-POHON/
+├── 🌳 01_STRUKTUR_DATA/
+│   ├── 📄 hierarchical-data-structure.txt
+│   ├── 📄 tree-terminology.txt
+│   └── 📄 parent-child-relationship.txt
+├── 📁 02_SISTEM_FILE/
+│   ├── 📄 directory-tree.txt
+│   ├── 📄 file-hierarchy.txt
+│   ├── 📄 path-structure.txt
+│   └── 📄 navigation-terms.txt
+├── 🎨 03_REPRESENTASI_VISUAL/
+│   ├── 📄 tree-diagram.txt
+│   ├── 📄 dendrogram.txt
+│   ├── 📄 indentation-format.txt
+│   └── 📄 ascii-art-tree.txt
+├── 💻 04_PEMROGRAMAN/
+│   ├── 📄 data-serialization.txt
+│   ├── 📄 tree-traversal.txt
+│   ├── 📄 recursive-structure.txt
+│   └── 📄 algorithm-terms.txt
+├── 🎯 05_UI_UX/
+│   ├── 📄 tree-view-component.txt
+│   ├── 📄 hierarchical-list.txt
+│   ├── 📄 collapsible-sections.txt
+│   └── 📄 information-architecture.txt
+├── 🔧 06_TOOLS_IMPLEMENTASI/
+│   ├── 📄 command-line-tools.txt
+│   ├── 📄 programming-patterns.txt
+│   └── 📄 directory-walker.txt
+├── 📝 07_DOKUMENTASI/
+│   ├── 📄 plain-text-indented-list.txt
+│   ├── 📄 markdown-tree-format.txt
+│   ├── 📄 ascii-tree-representation.txt
+│   └── 📄 standard-formats.txt
+├── 🌐 08_WEB_TEKNOLOGI/
+│   ├── 📄 dom-tree.txt
+│   ├── 📄 xml-document-tree.txt
+│   ├── 📄 html-element-tree.txt
+│   └── 📄 network-topology.txt
+├── 🗂️ 09_ORGANISASI_PROYEK/
+│   ├── 📄 project-structure.txt
+│   ├── 📄 code-organization.txt
+│   ├── 📄 module-hierarchy.txt
+│   └── 📄 dependency-tree.txt
+├── 🎯 10_ISTILAH_UTAMA/
+│   ├── 📄 primary-terms.txt
+│   ├── 📄 secondary-terms.txt
+│   └── 📄 context-usage.txt
+└── 📄 README.txt
+```
+
+```
+📁 DETAILED-EXPLANATION/
+├── 🌳 STRUCTURAL-TERMS/
+│   ├── 📄 tree-structure.txt
+│   │   └── Struktur data yang menyerupai pohon dengan node dan edge
+│   ├── 📄 root-node.txt
+│   │   └── Node paling atas yang tidak memiliki parent
+│   ├── 📄 leaf-node.txt
+│   │   └── Node paling bawah yang tidak memiliki child
+│   ├── 📄 parent-child.txt
+│   │   └── Hubungan hierarkis antara node
+│   └── 📄 sibling-nodes.txt
+│       └── Node-node yang berada pada level yang sama
+├── 📁 FILE-SYSTEM-TERMS/
+│   ├── 📄 directory-tree.txt
+│   │   └── Representasi struktur folder dan file
+│   ├── 📄 file-hierarchy.txt
+│   │   └── Pengorganisasian file dalam level-level
+│   ├── 📄 path-structure.txt
+│   │   └── Format penulisan lokasi file/direktori
+│   └── 📄 nested-directories.txt
+│       └── Direktori yang berada di dalam direktori lain
+├── 🎨 VISUAL-FORMATS/
+│   ├── 📄 tree-diagram.txt
+│   │   └── Representasi visual struktur pohon
+│   ├── 📄 indentation-format.txt
+│   │   └── Format menggunakan spasi/tab untuk menunjukkan level
+│   ├── 📄 box-drawing-characters.txt
+│   │   └── Karakter Unicode untuk garis dan kotak
+│   └── 📄 ascii-art-tree.txt
+│       └── Pohon yang digambar menggunakan karakter ASCII
+├── 💻 PROGRAMMING-CONCEPTS/
+│   ├── 📄 tree-serialization.txt
+│   │   └── Konversi struktur pohon ke format data
+│   ├── 📄 json-tree.txt
+│   │   └── Representasi pohon dalam format JSON
+│   ├── 📄 tree-traversal.txt
+│   │   └── Metode menelusuri node dalam pohon
+│   └── 📄 recursive-structure.txt
+│       └── Struktur yang memanggil dirinya sendiri
+├── 📝 DOCUMENTATION-FORMATS/
+│   ├── 📄 plain-text-indented-list.txt
+│   │   └── Format teks dengan indentasi tanpa karakter khusus
+│   ├── 📄 markdown-tree.txt
+│   │   └── Struktur pohon menggunakan sintaks Markdown
+│   └── 📄 standard-formats.txt
+│       └── JSON, YAML, XML untuk data hierarkis
+└── 🎯 KEY-TERMS/
+    ├── 📄 directory-tree-structure.txt
+    │   └── ISTILAH UTAMA: Struktur pohon direktori
+    ├── 📄 plain-text-indented-list.txt
+    │   └── ISTILAH UTAMA: Daftar berindentasi teks biasa
+    ├── 📄 tree-view-diagram.txt
+    │   └── ISTILAH UTAMA: Diagram tampilan pohon
+    ├── 📄 hierarchical-data-format.txt
+    │   └── ISTILAH UTAMA: Format data hierarkis
+    └── 📄 ascii-tree-representation.txt
+        └── ISTILAH UTAMA: Representasi pohon ASCII
+```
+
+```
+📁 FORMAT-COMPARISON/
+├── ✅ RECOMMENDED-FORMATS/
+│   ├── 📄 plain-text-indented-list.txt
+│   │   ├── Kelebihan: Mudah dibaca AI, universal
+│   │   ├── Kekurangan: Kurang visual
+│   │   └── Contoh:
+│   │       project/
+│   │         src/
+│   │           app.js
+│   ├── 📄 markdown-bullets.txt
+│   │   ├── Kelebihan: Native Markdown support
+│   │   ├── Kekurangan: Kurang struktur jelas
+│   │   └── Contoh:
+│   │       - project/
+│   │         - src/
+│   │           - app.js
+│   └── 📄 json-hierarchy.txt
+│       ├── Kelebihan: Structured, machine-readable
+│       ├── Kekurangan: Overhead untuk manusia
+│       └── Contoh:
+│           {"project": {"src": {"app.js": "file"}}}
+├── ⚠️ LIMITED-USE-FORMATS/
+│   ├── 📄 tree-box-characters.txt
+│   │   ├── Kelebihan: Visual menarik
+│   │   ├── Kekurangan: Sulit untuk AI
+│   │   └── Contoh:
+│   │       project/
+│   │       ├── src/
+│   │       │   └── app.js
+│   └── 📄 complex-ascii-art.txt
+│       ├── Kelebihan: Estetika tinggi
+│       ├── Kekurangan: Tidak praktis
+│       └── Contoh:
+│           +-- project/
+│               +-- src/
+│                   +-- app.js
+└── ❌ NOT-RECOMMENDED/
+    ├── 📄 inconsistent-indentation.txt
+    │   └── Masalah: Tidak konsisten, sulit diparsing
+    ├── 📄 ambiguous-naming.txt
+    │   └── Masalah: Nama tidak jelas, membingungkan
+    └── 📄 mixed-formats.txt
+        └── Masalah: Format campuran, tidak konsisten
+```
+
+```
+📁 BEST-PRACTICES-GUIDE/
+├── ✅ DO-RECOMMENDATIONS/
+│   ├── 📄 consistent-indentation.txt
+│   │   └── Gunakan 2 atau 4 spasi secara konsisten
+│   ├── 📄 clear-naming.txt
+│   │   └── Nama deskriptif yang jelas tujuannya
+│   ├── 📄 proper-folder-file-markers.txt
+│   │   └── Gunakan slash untuk folder, tanpa slash untuk file
+│   └── 📄 logical-grouping.txt
+│       └── Kelompokkan berdasarkan fungsi, bukan teknologi
+├── ❌ DONT-AVOID/
+│   ├── 📄 inconsistent-spacing.txt
+│   │   └── Jangan campur berbagai jumlah spasi
+│   ├── 📄 ambiguous-abbreviations.txt
+│   │   └── Hindari singkatan yang tidak jelas
+│   ├── 📄 unclear-hierarchy.txt
+│   │   └── Jangan buat struktur yang membingungkan
+│   └── 📄 mixed-levels.txt
+│       └── Hindari mencampur level tanpa pola jelas
+├── 🎯 AI-OPTIMIZATION/
+│   ├── 📄 machine-readable-format.txt
+│   │   └── Format yang mudah diparsing AI
+│   ├── 📄 predictable-structure.txt
+│   │   └── Struktur yang konsisten dan predictable
+│   └── 📄 clear-context.txt
+│       └── Berikan konteks yang jelas untuk setiap level
+└── 🔧 IMPLEMENTATION-TEMPLATES/
+    ├── 📄 web-app-template.txt
+    ├── 📄 mobile-app-template.txt
+    ├── 📄 api-service-template.txt
+    └── 📄 library-package-template.txt
+```
+
+```
+📁 QUICK-REFERENCE/
+├── 🎯 PRIMARY-TERMS/
+│   ├── 📌 directory-tree-structure.md
+│   ├── 📌 plain-text-indented-list.md
+│   ├── 📌 tree-view-diagram.md
+│   ├── 📌 hierarchical-data-format.md
+│   └── 📌 ascii-tree-representation.md
+├── 🔍 CONTEXT-USAGE/
+│   ├── 📌 for-developers.md
+│   ├── 📌 for-system-admins.md
+│   ├── 📌 for-data-scientists.md
+│   ├── 📌 for-ui-designers.md
+│   └── 📌 for-technical-writers.md
+└── 📚 RELATED-CONCEPTS/
+    ├── 📌 information-architecture.md
+    ├── 📌 data-structures.md
+    ├── 📌 file-systems.md
+    ├── 📌 user-interface.md
+    └── 📌 documentation-standards.md
+```
+
+**Keterangan Struktur:**
+- `📁` = Folder/Direktori
+- `📄` = File teks/penjelasan
+- `📌` = File referensi cepat
+- `🎯` = Kategori utama
+- `✅` = Rekomendasi terbaik
+- `⚠️` = Penggunaan terbatas
+- `❌` = Tidak direkomendasikan
+
+Struktur di atas mengorganisir semua istilah terkait dalam format tree view yang konsisten dan mudah dipahami!
+
 ## **🎯 STRUKTUR OPTIMAL UNTUK AI**
 
 ### **Format Terbaik: Hybrid Clean Structure**
