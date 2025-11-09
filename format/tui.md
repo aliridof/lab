@@ -1,7 +1,9 @@
 # 🎯 UNIVERSAL TUTORIAL GENERATOR PROMPT
 
 Gunakan prompt berikut untuk membuat AI menghasilkan tutorial dengan format yang identik seperti dalam dokumen:
-
+```
+https://raw.githubusercontent.com/aliridof/lab/refs/heads/main/format/tui.md
+```
 ---
 
 ## 📋 PROMPT UTAMA
