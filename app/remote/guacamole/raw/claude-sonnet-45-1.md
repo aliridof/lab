@@ -1,4 +1,11 @@
+
+
+
 # 🚀 GUACAMOLE UNIVERSAL INSTALLER - USER JOURNEY
+
+```
+https://raw.githubusercontent.com/aliridof/lab/refs/heads/main/app/remote/guacamole/raw/claude-sonnet-45-1.md
+```
 
 ```
 ═══════════════════════════════════════════════════════════════════════════
