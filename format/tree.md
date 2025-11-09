@@ -239,3 +239,164 @@ Struktur di atas dioptimalkan agar AI dapat dengan mudah:
 - Memetakan dependencies
 - Menganalisis arsitektur keseluruhan
 
+Berikut **istilah-istilah terkait** format struktur pohon dan tree view diagram yang telah kita bahas:
+
+## 🌳 **ISTILAH TEKNIS STRUKTUR DATA**
+
+### **1. Hierarchical Data Structure**
+- **Tree Structure**: Struktur data pohon
+- **Root Node**: Node akar/puncak
+- **Leaf Node**: Node daun/ujung
+- **Parent-Child Relationship**: Hubungan induk-anak
+- **Sibling Nodes**: Node saudara selevel
+- **Depth/Level**: Kedalaman level
+- **Subtree**: Anak pohon
+
+### **2. Tree Terminology**
+- **Node/Vertex**: Simpul dalam pohon
+- **Edge**: Hubungan antara node
+- **Branch**: Cabang dari pohon
+- **Forest**: Kumpulan pohon
+- **Binary Tree**: Pohon biner
+- **N-ary Tree**: Pohon dengan N anak
+
+## 📁 **ISTILAH FILE SYSTEM & DIRECTORY**
+
+### **3. File System Concepts**
+- **Directory Tree**: Pohon direktori
+- **File Hierarchy**: Hierarki file
+- **Path Structure**: Struktur path
+- **Nested Directories**: Direktori bersarang
+- **Directory Listing**: Daftar direktori
+
+### **4. Navigation Terms**
+- **Absolute Path**: Path absolut
+- **Relative Path**: Path relatif
+- **Current Directory**: Direktori saat ini
+- **Parent Directory**: Direktori induk
+- **Working Directory**: Direktori kerja
+
+## 🎨 **ISTILAH VISUAL REPRESENTATION**
+
+### **5. Visualization Formats**
+- **Tree Diagram**: Diagram pohon
+- **Dendrogram**: Diagram dendrogram
+- **Indentation**: Penjorokan/indentasi
+- **Box-drawing Characters**: Karakter gambar kotak
+- **ASCII Art**: Seni ASCII
+
+### **6. Display Styles**
+- **Vertical Tree**: Pohon vertikal
+- **Horizontal Tree**: Pohon horizontal
+- **Collapsible Tree**: Pohon bisa dilipat
+- **Interactive Tree**: Pohon interaktif
+
+## 💻 **ISTILAH PROGRAMMING & DEVELOPMENT**
+
+### **7. Data Serialization**
+- **Tree Serialization**: Serialisasi pohon
+- **JSON Tree**: Pohon dalam format JSON
+- **XML Tree**: Pohon dalam format XML
+- **YAML Hierarchy**: Hierarki YAML
+
+### **8. Algorithm Terms**
+- **Tree Traversal**: Penelusuran pohon
+- **Depth-First Search (DFS):** Penelusuran depth-first
+- **Breadth-First Search (BFS):** Penelusuran breadth-first
+- **Recursive Structure**: Struktur rekursif
+
+## 📊 **ISTILAH UI/UX & INFORMATION ARCHITECTURE**
+
+### **9. User Interface Terms**
+- **Tree View**: Tampilan pohon
+- **Outline View**: Tampilan outline
+- **Hierarchical List**: Daftar hierarkis
+- **Collapsible Sections**: Bagian bisa dilipat
+
+### **10. Information Architecture**
+- **Taxonomy**: Taksonomi
+- **Ontology**: Ontologi
+- **Sitemap**: Peta situs
+- **Content Hierarchy**: Hierarki konten
+
+## 🔧 **ISTILAH TOOLS & IMPLEMENTATION**
+
+### **11. Command Line Tools**
+- **`tree` command**: Perintah tree
+- **`find` command**: Perintah find
+- **`ls -R`**: List recursive
+- **Directory Walker**: Penjelajah direktori
+
+### **12. Programming Concepts**
+- **Composite Pattern**: Pola komposit
+- **Visitor Pattern**: Pola visitor
+- **Recursive Data Structure**: Struktur data rekursif
+- **Nested Objects**: Objek bersarang
+
+## 📝 **ISTILAH DOCUMENTATION & FORMATS**
+
+### **13. Documentation Formats**
+- **Plain Text Indented List**: Daftar berindentasi teks biasa
+- **Markdown Tree**: Pohon Markdown
+- **ASCII Tree**: Pohon ASCII
+- **Unicode Box-drawing**: Gambar kotak Unicode
+
+### **14. Standard Formats**
+- **JSON Format**: Format JSON
+- **YAML Format**: Format YAML
+- **TOML Structure**: Struktur TOML
+- **INI Section Hierarchy**: Hierarki section INI
+
+## 🌐 **ISTILAH WEB & NETWORK**
+
+### **15. Web Technologies**
+- **DOM Tree**: Pohon DOM
+- **XML Document Tree**: Pohon dokumen XML
+- **HTML Element Tree**: Pohon elemen HTML
+- **CSS Inheritance Tree**: Pohon pewarisan CSS
+
+### **16. Network Structures**
+- **Network Topology**: Topologi jaringan
+- **Directory Services**: Layanan direktori
+- **LDAP Tree**: Pohon LDAP
+- **DNS Hierarchy**: Hierarki DNS
+
+## 🗂️ **ISTILAH PROJECT ORGANIZATION**
+
+### **17. Software Architecture**
+- **Project Structure**: Struktur proyek
+- **Code Organization**: Organisasi kode
+- **Module Hierarchy**: Hierarki modul
+- **Package Structure**: Struktur package
+
+### **18. Build Systems**
+- **Dependency Tree**: Pohon dependensi
+- **Build Hierarchy**: Hierarki build
+- **Module Graph**: Grafik modul
+- **Component Tree**: Pohon komponen
+
+## 🎯 **ISTILAH YANG PALING RELEVAN UNTUK FORMAT KITA**
+
+### **Primary Terms:**
+1. **Directory Tree Structure** - Struktur pohon direktori
+2. **Plain Text Indented List** - Daftar berindentasi teks biasa  
+3. **Tree View Diagram** - Diagram tampilan pohon
+4. **Hierarchical Data Format** - Format data hierarkis
+5. **ASCII Tree Representation** - Representasi pohon ASCII
+
+### **Secondary Terms:**
+6. **Nested Folder Structure** - Struktur folder bersarang
+7. **Visual Directory Map** - Peta direktori visual
+8. **File System Hierarchy** - Hierarki sistem file
+9. **Project Directory Layout** - Tata letak direktori proyek
+10. **Codebase Structure Diagram** - Diagram struktur codebase
+
+## 🔍 **KONTEKS PENGGUNAAN ISTILAH**
+
+- **Untuk Developer**: "Project directory structure"
+- **Untuk System Admin**: "File system hierarchy" 
+- **Untuk Data Scientist**: "Tree data structure"
+- **Untuk UI Designer**: "Tree view component"
+- **Untuk Technical Writer**: "Hierarchical documentation"
+
+Istilah-istilah ini membantu dalam komunikasi teknis yang tepat ketika mendiskusikan struktur organisasi file, direktori, atau data hierarkis lainnya.
