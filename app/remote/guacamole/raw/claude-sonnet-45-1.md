@@ -5,6 +5,24 @@
 
 ```
 https://raw.githubusercontent.com/aliridof/lab/refs/heads/main/app/remote/guacamole/raw/claude-sonnet-45-1.md
+
+
+FASE 00: Prerequisites check (root, OS, arch, internet)
+FASE 01: Auto-detect public IP dengan fallback manual
+FASE 02: Domain input (optional)
+FASE 03: SSL method selection (self-signed/Let's Encrypt/Cloudflare)
+FASE 04: Access method (port/Cloudflare Tunnel)
+FASE 05: Database selection (MySQL/PostgreSQL)
+FASE 06: Password input dengan validasi
+FASE 07: Security configuration (IAP/direct SSH)
+FASE 08: Auto-create swap 2GB
+FASE 09: Install dependencies
+FASE 10: Install Docker via get.docker.com
+FASE 11: Create directory structure
+FASE 12: Download init SQL scripts
+FASE 13: Generate docker-compose.yml dinamis
+FASE 14: Start containers dengan verification
+
 ```
 
 ```
