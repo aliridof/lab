@@ -4,7 +4,7 @@
 # 🚀 GUACAMOLE UNIVERSAL INSTALLER - USER JOURNEY
 
 ```
-https://raw.githubusercontent.com/aliridof/lab/refs/heads/main/app/remote/guacamole/raw/claude-sonnet-45-1.md
+https://raw.githubusercontent.com/aliridof/lab/refs/heads/main/app/remote/guacamole/[0]/claude-sonnet-45-1.md
 
 
 FASE 00: Prerequisites check (root, OS, arch, internet)
